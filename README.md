@@ -1,4 +1,4 @@
-#Lung Cancer Prediction
+# Lung Cancer Prediction
 We are going to take the following approach:
 1. Problem definition
 2. Data
